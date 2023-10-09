@@ -34,7 +34,7 @@
 
 - 👨‍🎓 I'm a **Electronics and Computer Engineering Student** from VITC [2025]
 - 👨‍🎓 I'm also doing a B.sc in **Data Science** from IITM [2026]
-- 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
+- 🔭 I’m currently working on Full Stack.
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently developing my skills in:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/vssaikrishna2003/)
