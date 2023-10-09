@@ -10,7 +10,7 @@
 
 👋 Hi there,
 
-📊 Data Science Enthusiast | 💻 Full Stack Developer
+📊 I'm a Data Science Enthusiast | 💻 Full Stack Developer
 
 🔍 Exploring the world of data and crafting web applications that bring ideas to life. 
 
