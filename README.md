@@ -40,7 +40,7 @@
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/vssaikrishna2003/)
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
 - 📬 How to reach me: [vssaikrishna2003@gmail.com](mailto:vssaikrishna2003@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1U4SClhdMs3Xrl6QpyURX0p7Ax2KMoFhP/view?usp=drive_link).
+- 📝 [Resume](https://drive.google.com/file/d/1oU6DtDBAdm3Q7uz-3sOylMrEIx23qfCU/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
